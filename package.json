@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/asd782114271/easy-mock/issues"
   },
-  "homepage": "https://github.com/asd782114271/easy-mock#readme"
+  "homepage": "https://github.com/asd782114271/easy-mock#readme",
+  "dependencies": {
+    "mkdirp": "^1.0.3"
+  }
 }
